@@ -37,3 +37,8 @@ Joe Stanton
 - Server
 - Database (MongoDB, completely separate project)
 - Command Line
+
+---
+
+# NPM
+
